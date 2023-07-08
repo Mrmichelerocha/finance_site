@@ -1,4 +1,4 @@
-# Projeto de Site para Análise de Finanças com Widgets da TradeView
+# Projeto de Site para Análise de Finanças com Widgets da TradeView 
 
 O projeto de site para análise de finanças com widgets da TradeView é uma iniciativa que visa fornecer aos usuários uma plataforma interativa e abrangente para acompanhar e analisar dados financeiros de forma eficiente. Utilizando os widgets fornecidos pela TradeView, o projeto permite que os usuários acessem informações em tempo real, gráficos e ferramentas avançadas para análise de mercado. O objetivo principal é facilitar a compreensão das tendências e tomar decisões informadas no campo financeiro.
 
